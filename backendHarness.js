@@ -1,4 +1,4 @@
-// Taken from https://github.com/get-convex/convex-chess/blob/main/backendHarness.js
+// Taken from https://github.com/convex/convex-chess/blob/main/backendHarness.js
 
 const http = require("http");
 const { spawn, exec, execSync } = require("child_process");
